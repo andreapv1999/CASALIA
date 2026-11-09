@@ -1,0 +1,256 @@
+
+.admin-clients-page {
+  min-height: 100vh;
+  background: #f5f3ef;
+  color: #203b34;
+}
+
+.admin-clients-header {
+  padding: 48px max(calc((100% - 1160px) / 2), 30px);
+  background: #fff;
+}
+
+.clients-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  color: #a17b50;
+  text-decoration: none;
+  font-weight: 600;
+  margin-bottom: 35px;
+}
+
+.admin-clients-header h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 38px;
+  margin: 0 0 10px;
+}
+
+.admin-clients-header p {
+  color: #78817e;
+  margin: 0;
+}
+
+.admin-clients-content {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 35px 24px 65px;
+}
+
+.clients-actions {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 25px;
+  flex-wrap: wrap;
+}
+
+.clients-primary-button,
+.clients-refresh-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  padding: 14px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.clients-primary-button {
+  background: #203b34;
+  color: white;
+  border: 1px solid #203b34;
+}
+
+.clients-refresh-button {
+  background: white;
+  color: #203b34;
+  border: 1px solid #dedbd5;
+}
+
+.clients-primary-button:hover {
+  background: #315b4d;
+}
+
+.clients-refresh-button:disabled {
+  opacity: 0.6;
+  cursor: wait;
+}
+
+.clients-list,
+.clients-form {
+  background: white;
+  border-radius: 14px;
+  padding: 25px;
+  margin-bottom: 25px;
+}
+
+.clients-list h2,
+.clients-form h2 {
+  margin: 0 0 20px;
+  font-size: 22px;
+}
+
+.client-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  padding: 20px 0;
+  border-bottom: 1px solid #eeeae4;
+}
+
+.client-item:last-child {
+  border-bottom: none;
+}
+
+.client-information strong {
+  font-size: 16px;
+}
+
+.client-information p {
+  margin: 6px 0;
+  color: #77817d;
+  font-size: 14px;
+}
+
+.client-information span {
+  display: inline-block;
+  margin-top: 5px;
+  color: #a17b50;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.client-item-actions {
+  display: flex;
+  gap: 9px;
+}
+
+.client-item-actions button {
+  width: 42px;
+  height: 42px;
+  border-radius: 8px;
+  background: white;
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+}
+
+.client-edit-button {
+  color: #203b34;
+  border: 1px solid #d5e2dc;
+}
+
+.client-delete-button {
+  color: #d0443e;
+  border: 1px solid #f0d0cd;
+}
+
+.client-edit-button:hover {
+  background: #edf4f0;
+}
+
+.client-delete-button:hover {
+  background: #fff1f0;
+}
+
+.clients-form {
+  border: 1px solid #e9e4dc;
+}
+
+.clients-form-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.clients-form-heading button {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  color: #66716d;
+}
+
+.clients-form label {
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  margin: 16px 0 7px;
+}
+
+.clients-form input,
+.clients-form select {
+  width: 100%;
+  padding: 12px 14px;
+  border: 1px solid #dedbd5;
+  border-radius: 7px;
+  font: inherit;
+  background: white;
+  color: #203b34;
+}
+
+.clients-form input:focus,
+.clients-form select:focus {
+  outline: 2px solid #b9c9c1;
+  border-color: #315b4d;
+}
+
+.clients-form-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 22px;
+}
+
+.clients-form-buttons button {
+  padding: 12px 18px;
+  border-radius: 7px;
+  border: 1px solid #203b34;
+  background: #203b34;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.clients-form-buttons button:last-child {
+  background: white;
+  color: #203b34;
+}
+
+.clients-form-buttons button:disabled {
+  opacity: 0.6;
+  cursor: wait;
+}
+
+.clients-error {
+  color: #c0392b;
+  margin-bottom: 15px;
+}
+
+.clients-success {
+  color: #27834b;
+  margin-bottom: 15px;
+}
+
+.clients-empty {
+  color: #78817e;
+}
+
+@media (max-width: 600px) {
+  .admin-clients-header {
+    padding: 35px 22px;
+  }
+
+  .admin-clients-header h1 {
+    font-size: 30px;
+  }
+
+  .client-item {
+    align-items: flex-start;
+  }
+
+  .clients-list,
+  .clients-form {
+    padding: 18px;
+  }
+}

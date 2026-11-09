@@ -1,0 +1,121 @@
+title,description,price,type,operation,location,bedrooms,bathrooms,area,status
+Piso numero 1,Vivienda numero 1 con excelentes caracteristicas y buena ubicacion,562,piso,alquiler,Sevilla Centro,2,2,53,disponible
+Casa numero 2,Vivienda numero 2 con excelentes caracteristicas y buena ubicacion,95500,casa,venta,Sevilla Nervion,3,3,56,disponible
+Chalet numero 3,Vivienda numero 3 con excelentes caracteristicas y buena ubicacion,586,chalet,alquiler,Sevilla Triana,4,1,59,disponible
+Atico numero 4,Vivienda numero 4 con excelentes caracteristicas y buena ubicacion,101000,atico,venta,Sevilla Los Remedios,1,2,62,disponible
+Local numero 5,Vivienda numero 5 con excelentes caracteristicas y buena ubicacion,610,local,alquiler,Sevilla Macarena,0,3,65,disponible
+Piso numero 6,Vivienda numero 6 con excelentes caracteristicas y buena ubicacion,106500,piso,venta,Dos Hermanas,3,1,68,disponible
+Casa numero 7,Vivienda numero 7 con excelentes caracteristicas y buena ubicacion,634,casa,alquiler,Alcala de Guadaira,4,2,71,disponible
+Chalet numero 8,Vivienda numero 8 con excelentes caracteristicas y buena ubicacion,112000,chalet,venta,Mairena del Aljarafe,1,3,74,disponible
+Atico numero 9,Vivienda numero 9 con excelentes caracteristicas y buena ubicacion,658,atico,alquiler,Tomares,2,1,77,disponible
+Local numero 10,Vivienda numero 10 con excelentes caracteristicas y buena ubicacion,117500,local,venta,Montequinto,0,2,80,disponible
+Piso numero 11,Vivienda numero 11 con excelentes caracteristicas y buena ubicacion,682,piso,alquiler,Sevilla Centro,4,3,83,disponible
+Casa numero 12,Vivienda numero 12 con excelentes caracteristicas y buena ubicacion,123000,casa,venta,Sevilla Nervion,1,1,86,disponible
+Chalet numero 13,Vivienda numero 13 con excelentes caracteristicas y buena ubicacion,706,chalet,alquiler,Sevilla Triana,2,2,89,disponible
+Atico numero 14,Vivienda numero 14 con excelentes caracteristicas y buena ubicacion,128500,atico,venta,Sevilla Los Remedios,3,3,92,disponible
+Local numero 15,Vivienda numero 15 con excelentes caracteristicas y buena ubicacion,730,local,alquiler,Sevilla Macarena,0,1,95,disponible
+Piso numero 16,Vivienda numero 16 con excelentes caracteristicas y buena ubicacion,134000,piso,venta,Dos Hermanas,1,2,98,disponible
+Casa numero 17,Vivienda numero 17 con excelentes caracteristicas y buena ubicacion,754,casa,alquiler,Alcala de Guadaira,2,3,101,disponible
+Chalet numero 18,Vivienda numero 18 con excelentes caracteristicas y buena ubicacion,139500,chalet,venta,Mairena del Aljarafe,3,1,104,disponible
+Atico numero 19,Vivienda numero 19 con excelentes caracteristicas y buena ubicacion,778,atico,alquiler,Tomares,4,2,107,disponible
+Local numero 20,Vivienda numero 20 con excelentes caracteristicas y buena ubicacion,145000,local,venta,Montequinto,0,3,110,disponible
+Piso numero 21,Vivienda numero 21 con excelentes caracteristicas y buena ubicacion,802,piso,alquiler,Sevilla Centro,2,1,113,disponible
+Casa numero 22,Vivienda numero 22 con excelentes caracteristicas y buena ubicacion,150500,casa,venta,Sevilla Nervion,3,2,116,disponible
+Chalet numero 23,Vivienda numero 23 con excelentes caracteristicas y buena ubicacion,826,chalet,alquiler,Sevilla Triana,4,3,119,disponible
+Atico numero 24,Vivienda numero 24 con excelentes caracteristicas y buena ubicacion,156000,atico,venta,Sevilla Los Remedios,1,1,122,disponible
+Local numero 25,Vivienda numero 25 con excelentes caracteristicas y buena ubicacion,850,local,alquiler,Sevilla Macarena,0,2,125,disponible
+Piso numero 26,Vivienda numero 26 con excelentes caracteristicas y buena ubicacion,161500,piso,venta,Dos Hermanas,3,3,128,disponible
+Casa numero 27,Vivienda numero 27 con excelentes caracteristicas y buena ubicacion,874,casa,alquiler,Alcala de Guadaira,4,1,131,disponible
+Chalet numero 28,Vivienda numero 28 con excelentes caracteristicas y buena ubicacion,167000,chalet,venta,Mairena del Aljarafe,1,2,134,disponible
+Atico numero 29,Vivienda numero 29 con excelentes caracteristicas y buena ubicacion,898,atico,alquiler,Tomares,2,3,137,disponible
+Local numero 30,Vivienda numero 30 con excelentes caracteristicas y buena ubicacion,172500,local,venta,Montequinto,0,1,140,disponible
+Piso numero 31,Vivienda numero 31 con excelentes caracteristicas y buena ubicacion,922,piso,alquiler,Sevilla Centro,4,2,143,disponible
+Casa numero 32,Vivienda numero 32 con excelentes caracteristicas y buena ubicacion,178000,casa,venta,Sevilla Nervion,1,3,146,disponible
+Chalet numero 33,Vivienda numero 33 con excelentes caracteristicas y buena ubicacion,946,chalet,alquiler,Sevilla Triana,2,1,149,disponible
+Atico numero 34,Vivienda numero 34 con excelentes caracteristicas y buena ubicacion,183500,atico,venta,Sevilla Los Remedios,3,2,152,disponible
+Local numero 35,Vivienda numero 35 con excelentes caracteristicas y buena ubicacion,970,local,alquiler,Sevilla Macarena,0,3,155,disponible
+Piso numero 36,Vivienda numero 36 con excelentes caracteristicas y buena ubicacion,189000,piso,venta,Dos Hermanas,1,1,158,disponible
+Casa numero 37,Vivienda numero 37 con excelentes caracteristicas y buena ubicacion,994,casa,alquiler,Alcala de Guadaira,2,2,161,disponible
+Chalet numero 38,Vivienda numero 38 con excelentes caracteristicas y buena ubicacion,194500,chalet,venta,Mairena del Aljarafe,3,3,164,disponible
+Atico numero 39,Vivienda numero 39 con excelentes caracteristicas y buena ubicacion,1018,atico,alquiler,Tomares,4,1,167,disponible
+Local numero 40,Vivienda numero 40 con excelentes caracteristicas y buena ubicacion,200000,local,venta,Montequinto,0,2,170,disponible
+Piso numero 41,Vivienda numero 41 con excelentes caracteristicas y buena ubicacion,1042,piso,alquiler,Sevilla Centro,2,3,173,disponible
+Casa numero 42,Vivienda numero 42 con excelentes caracteristicas y buena ubicacion,205500,casa,venta,Sevilla Nervion,3,1,176,disponible
+Chalet numero 43,Vivienda numero 43 con excelentes caracteristicas y buena ubicacion,1066,chalet,alquiler,Sevilla Triana,4,2,179,disponible
+Atico numero 44,Vivienda numero 44 con excelentes caracteristicas y buena ubicacion,211000,atico,venta,Sevilla Los Remedios,1,3,182,disponible
+Local numero 45,Vivienda numero 45 con excelentes caracteristicas y buena ubicacion,1090,local,alquiler,Sevilla Macarena,0,1,185,disponible
+Piso numero 46,Vivienda numero 46 con excelentes caracteristicas y buena ubicacion,216500,piso,venta,Dos Hermanas,3,2,188,disponible
+Casa numero 47,Vivienda numero 47 con excelentes caracteristicas y buena ubicacion,1114,casa,alquiler,Alcala de Guadaira,4,3,191,disponible
+Chalet numero 48,Vivienda numero 48 con excelentes caracteristicas y buena ubicacion,222000,chalet,venta,Mairena del Aljarafe,1,1,194,disponible
+Atico numero 49,Vivienda numero 49 con excelentes caracteristicas y buena ubicacion,1138,atico,alquiler,Tomares,2,2,197,disponible
+Local numero 50,Vivienda numero 50 con excelentes caracteristicas y buena ubicacion,227500,local,venta,Montequinto,0,3,200,disponible
+Piso numero 51,Vivienda numero 51 con excelentes caracteristicas y buena ubicacion,1162,piso,alquiler,Sevilla Centro,4,1,203,disponible
+Casa numero 52,Vivienda numero 52 con excelentes caracteristicas y buena ubicacion,233000,casa,venta,Sevilla Nervion,1,2,206,disponible
+Chalet numero 53,Vivienda numero 53 con excelentes caracteristicas y buena ubicacion,1186,chalet,alquiler,Sevilla Triana,2,3,209,disponible
+Atico numero 54,Vivienda numero 54 con excelentes caracteristicas y buena ubicacion,238500,atico,venta,Sevilla Los Remedios,3,1,212,disponible
+Local numero 55,Vivienda numero 55 con excelentes caracteristicas y buena ubicacion,1210,local,alquiler,Sevilla Macarena,0,2,215,disponible
+Piso numero 56,Vivienda numero 56 con excelentes caracteristicas y buena ubicacion,244000,piso,venta,Dos Hermanas,1,3,218,disponible
+Casa numero 57,Vivienda numero 57 con excelentes caracteristicas y buena ubicacion,1234,casa,alquiler,Alcala de Guadaira,2,1,221,disponible
+Chalet numero 58,Vivienda numero 58 con excelentes caracteristicas y buena ubicacion,249500,chalet,venta,Mairena del Aljarafe,3,2,224,disponible
+Atico numero 59,Vivienda numero 59 con excelentes caracteristicas y buena ubicacion,1258,atico,alquiler,Tomares,4,3,227,disponible
+Local numero 60,Vivienda numero 60 con excelentes caracteristicas y buena ubicacion,255000,local,venta,Montequinto,0,1,230,disponible
+Piso numero 61,Vivienda numero 61 con excelentes caracteristicas y buena ubicacion,1282,piso,alquiler,Sevilla Centro,2,2,233,disponible
+Casa numero 62,Vivienda numero 62 con excelentes caracteristicas y buena ubicacion,260500,casa,venta,Sevilla Nervion,3,3,236,disponible
+Chalet numero 63,Vivienda numero 63 con excelentes caracteristicas y buena ubicacion,1306,chalet,alquiler,Sevilla Triana,4,1,239,disponible
+Atico numero 64,Vivienda numero 64 con excelentes caracteristicas y buena ubicacion,266000,atico,venta,Sevilla Los Remedios,1,2,242,disponible
+Local numero 65,Vivienda numero 65 con excelentes caracteristicas y buena ubicacion,1330,local,alquiler,Sevilla Macarena,0,3,245,disponible
+Piso numero 66,Vivienda numero 66 con excelentes caracteristicas y buena ubicacion,271500,piso,venta,Dos Hermanas,3,1,248,disponible
+Casa numero 67,Vivienda numero 67 con excelentes caracteristicas y buena ubicacion,1354,casa,alquiler,Alcala de Guadaira,4,2,251,disponible
+Chalet numero 68,Vivienda numero 68 con excelentes caracteristicas y buena ubicacion,277000,chalet,venta,Mairena del Aljarafe,1,3,254,disponible
+Atico numero 69,Vivienda numero 69 con excelentes caracteristicas y buena ubicacion,1378,atico,alquiler,Tomares,2,1,257,disponible
+Local numero 70,Vivienda numero 70 con excelentes caracteristicas y buena ubicacion,282500,local,venta,Montequinto,0,2,260,disponible
+Piso numero 71,Vivienda numero 71 con excelentes caracteristicas y buena ubicacion,1402,piso,alquiler,Sevilla Centro,4,3,263,disponible
+Casa numero 72,Vivienda numero 72 con excelentes caracteristicas y buena ubicacion,288000,casa,venta,Sevilla Nervion,1,1,266,disponible
+Chalet numero 73,Vivienda numero 73 con excelentes caracteristicas y buena ubicacion,1426,chalet,alquiler,Sevilla Triana,2,2,269,disponible
+Atico numero 74,Vivienda numero 74 con excelentes caracteristicas y buena ubicacion,293500,atico,venta,Sevilla Los Remedios,3,3,272,disponible
+Local numero 75,Vivienda numero 75 con excelentes caracteristicas y buena ubicacion,1450,local,alquiler,Sevilla Macarena,0,1,275,disponible
+Piso numero 76,Vivienda numero 76 con excelentes caracteristicas y buena ubicacion,299000,piso,venta,Dos Hermanas,1,2,278,disponible
+Casa numero 77,Vivienda numero 77 con excelentes caracteristicas y buena ubicacion,1474,casa,alquiler,Alcala de Guadaira,2,3,281,disponible
+Chalet numero 78,Vivienda numero 78 con excelentes caracteristicas y buena ubicacion,304500,chalet,venta,Mairena del Aljarafe,3,1,284,disponible
+Atico numero 79,Vivienda numero 79 con excelentes caracteristicas y buena ubicacion,1498,atico,alquiler,Tomares,4,2,287,disponible
+Local numero 80,Vivienda numero 80 con excelentes caracteristicas y buena ubicacion,310000,local,venta,Montequinto,0,3,290,disponible
+Piso numero 81,Vivienda numero 81 con excelentes caracteristicas y buena ubicacion,1522,piso,alquiler,Sevilla Centro,2,1,293,disponible
+Casa numero 82,Vivienda numero 82 con excelentes caracteristicas y buena ubicacion,315500,casa,venta,Sevilla Nervion,3,2,296,disponible
+Chalet numero 83,Vivienda numero 83 con excelentes caracteristicas y buena ubicacion,1546,chalet,alquiler,Sevilla Triana,4,3,299,disponible
+Atico numero 84,Vivienda numero 84 con excelentes caracteristicas y buena ubicacion,321000,atico,venta,Sevilla Los Remedios,1,1,302,disponible
+Local numero 85,Vivienda numero 85 con excelentes caracteristicas y buena ubicacion,1570,local,alquiler,Sevilla Macarena,0,2,305,disponible
+Piso numero 86,Vivienda numero 86 con excelentes caracteristicas y buena ubicacion,326500,piso,venta,Dos Hermanas,3,3,308,disponible
+Casa numero 87,Vivienda numero 87 con excelentes caracteristicas y buena ubicacion,1594,casa,alquiler,Alcala de Guadaira,4,1,311,disponible
+Chalet numero 88,Vivienda numero 88 con excelentes caracteristicas y buena ubicacion,332000,chalet,venta,Mairena del Aljarafe,1,2,314,disponible
+Atico numero 89,Vivienda numero 89 con excelentes caracteristicas y buena ubicacion,1618,atico,alquiler,Tomares,2,3,317,disponible
+Local numero 90,Vivienda numero 90 con excelentes caracteristicas y buena ubicacion,337500,local,venta,Montequinto,0,1,320,disponible
+Piso numero 91,Vivienda numero 91 con excelentes caracteristicas y buena ubicacion,1642,piso,alquiler,Sevilla Centro,4,2,323,disponible
+Casa numero 92,Vivienda numero 92 con excelentes caracteristicas y buena ubicacion,343000,casa,venta,Sevilla Nervion,1,3,326,disponible
+Chalet numero 93,Vivienda numero 93 con excelentes caracteristicas y buena ubicacion,1666,chalet,alquiler,Sevilla Triana,2,1,329,disponible
+Atico numero 94,Vivienda numero 94 con excelentes caracteristicas y buena ubicacion,348500,atico,venta,Sevilla Los Remedios,3,2,332,disponible
+Local numero 95,Vivienda numero 95 con excelentes caracteristicas y buena ubicacion,1690,local,alquiler,Sevilla Macarena,0,3,335,disponible
+Piso numero 96,Vivienda numero 96 con excelentes caracteristicas y buena ubicacion,354000,piso,venta,Dos Hermanas,1,1,338,disponible
+Casa numero 97,Vivienda numero 97 con excelentes caracteristicas y buena ubicacion,1714,casa,alquiler,Alcala de Guadaira,2,2,341,disponible
+Chalet numero 98,Vivienda numero 98 con excelentes caracteristicas y buena ubicacion,359500,chalet,venta,Mairena del Aljarafe,3,3,344,disponible
+Atico numero 99,Vivienda numero 99 con excelentes caracteristicas y buena ubicacion,1738,atico,alquiler,Tomares,4,1,347,disponible
+Local numero 100,Vivienda numero 100 con excelentes caracteristicas y buena ubicacion,365000,local,venta,Montequinto,0,2,350,disponible
+Piso numero 101,Vivienda numero 101 con excelentes caracteristicas y buena ubicacion,1762,piso,alquiler,Sevilla Centro,2,3,353,disponible
+Casa numero 102,Vivienda numero 102 con excelentes caracteristicas y buena ubicacion,370500,casa,venta,Sevilla Nervion,3,1,356,disponible
+Chalet numero 103,Vivienda numero 103 con excelentes caracteristicas y buena ubicacion,1786,chalet,alquiler,Sevilla Triana,4,2,359,disponible
+Atico numero 104,Vivienda numero 104 con excelentes caracteristicas y buena ubicacion,376000,atico,venta,Sevilla Los Remedios,1,3,362,disponible
+Local numero 105,Vivienda numero 105 con excelentes caracteristicas y buena ubicacion,1810,local,alquiler,Sevilla Macarena,0,1,365,disponible
+Piso numero 106,Vivienda numero 106 con excelentes caracteristicas y buena ubicacion,381500,piso,venta,Dos Hermanas,3,2,368,disponible
+Casa numero 107,Vivienda numero 107 con excelentes caracteristicas y buena ubicacion,1834,casa,alquiler,Alcala de Guadaira,4,3,371,disponible
+Chalet numero 108,Vivienda numero 108 con excelentes caracteristicas y buena ubicacion,387000,chalet,venta,Mairena del Aljarafe,1,1,374,disponible
+Atico numero 109,Vivienda numero 109 con excelentes caracteristicas y buena ubicacion,1858,atico,alquiler,Tomares,2,2,377,disponible
+Local numero 110,Vivienda numero 110 con excelentes caracteristicas y buena ubicacion,392500,local,venta,Montequinto,0,3,380,disponible
+Piso numero 111,Vivienda numero 111 con excelentes caracteristicas y buena ubicacion,1882,piso,alquiler,Sevilla Centro,4,1,383,disponible
+Casa numero 112,Vivienda numero 112 con excelentes caracteristicas y buena ubicacion,398000,casa,venta,Sevilla Nervion,1,2,386,disponible
+Chalet numero 113,Vivienda numero 113 con excelentes caracteristicas y buena ubicacion,1906,chalet,alquiler,Sevilla Triana,2,3,389,disponible
+Atico numero 114,Vivienda numero 114 con excelentes caracteristicas y buena ubicacion,403500,atico,venta,Sevilla Los Remedios,3,1,392,disponible
+Local numero 115,Vivienda numero 115 con excelentes caracteristicas y buena ubicacion,1930,local,alquiler,Sevilla Macarena,0,2,395,disponible
+Piso numero 116,Vivienda numero 116 con excelentes caracteristicas y buena ubicacion,409000,piso,venta,Dos Hermanas,1,3,398,disponible
+Casa numero 117,Vivienda numero 117 con excelentes caracteristicas y buena ubicacion,1954,casa,alquiler,Alcala de Guadaira,2,1,401,disponible
+Chalet numero 118,Vivienda numero 118 con excelentes caracteristicas y buena ubicacion,414500,chalet,venta,Mairena del Aljarafe,3,2,404,disponible
+Atico numero 119,Vivienda numero 119 con excelentes caracteristicas y buena ubicacion,1978,atico,alquiler,Tomares,4,3,407,disponible
+Local numero 120,Vivienda numero 120 con excelentes caracteristicas y buena ubicacion,420000,local,venta,Montequinto,0,1,410,disponible

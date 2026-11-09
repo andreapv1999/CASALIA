@@ -1,0 +1,265 @@
+
+.admin-appointments-page {
+  min-height: 100vh;
+  padding: 45px 24px 70px;
+  background: #f7f6f2;
+  color: #292923;
+  font-family: "DM Sans", sans-serif;
+}
+
+.admin-appointments-container {
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+.appointments-back {
+  display: inline-block;
+  margin-bottom: 35px;
+  color: #68745b;
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.2s ease;
+}
+
+.appointments-back:hover {
+  color: #303b2b;
+}
+
+.appointments-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 35px;
+}
+
+.appointments-eyebrow {
+  color: #8b947b;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.appointments-header h1 {
+  margin: 10px 0;
+  font-family: "Playfair Display", serif;
+  font-size: clamp(32px, 5vw, 45px);
+  font-weight: 500;
+}
+
+.appointments-header p {
+  color: #77776e;
+  margin: 0;
+}
+
+.appointments-count {
+  padding: 12px 18px;
+  border-radius: 30px;
+  background: #e9ecdf;
+  color: #566449;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.appointments-message {
+  padding: 15px 18px;
+  margin-bottom: 25px;
+  border-radius: 10px;
+  background: #e9ecdf;
+  color: #43543b;
+  font-weight: 600;
+}
+
+.appointment-form-section,
+.appointments-list-section {
+  padding: 30px;
+  margin-bottom: 30px;
+  border: 1px solid #ecebe5;
+  border-radius: 16px;
+  background: #fff;
+  box-shadow: 0 8px 25px rgba(40, 40, 30, 0.035);
+}
+
+.appointment-form-section h2,
+.appointments-list-section h2 {
+  margin: 0 0 25px;
+  font-family: "Playfair Display", serif;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.appointment-form {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+}
+
+.appointment-form label,
+.appointment-card-actions label {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  color: #55564e;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.appointment-form input,
+.appointment-form select,
+.appointment-card-actions select {
+  width: 100%;
+  min-height: 46px;
+  padding: 11px 13px;
+  border: 1px solid #e5e4dc;
+  border-radius: 8px;
+  background: #fff;
+  color: #33352e;
+  font: inherit;
+  outline: none;
+}
+
+.appointment-form input:focus,
+.appointment-form select:focus,
+.appointment-card-actions select:focus {
+  border-color: #899578;
+  box-shadow: 0 0 0 3px rgba(137, 149, 120, 0.12);
+}
+
+.appointment-form button {
+  grid-column: 1 / -1;
+  min-height: 48px;
+  margin-top: 5px;
+  border: none;
+  border-radius: 8px;
+  background: #657456;
+  color: #fff;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.appointment-form button:hover {
+  background: #4e5d42;
+}
+
+.appointment-form button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.appointments-hint {
+  margin: 18px 0 0;
+  color: #92713c;
+  font-size: 13px;
+}
+
+.appointments-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.appointment-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 25px;
+  padding: 22px;
+  border: 1px solid #eeede7;
+  border-radius: 12px;
+  background: #fdfdfb;
+}
+
+.appointment-card-info h3 {
+  margin: 0 0 13px;
+  color: #33382d;
+  font-family: "Playfair Display", serif;
+  font-size: 21px;
+  font-weight: 500;
+}
+
+.appointment-card-info p {
+  margin: 7px 0;
+  color: #77776e;
+  font-size: 13px;
+}
+
+.appointment-card-info strong {
+  color: #45483f;
+}
+
+.appointment-card-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 190px;
+  flex-shrink: 0;
+}
+
+.appointment-delete {
+  min-height: 40px;
+  padding: 9px 13px;
+  border: 1px solid #e8d6d1;
+  border-radius: 8px;
+  background: #fff;
+  color: #a34f43;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.appointment-delete:hover {
+  background: #a34f43;
+  color: #fff;
+}
+
+.appointments-empty {
+  padding: 45px 20px;
+  border: 1px dashed #deded4;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.appointments-empty h3 {
+  margin: 0 0 10px;
+  font-family: "Playfair Display", serif;
+  font-size: 22px;
+}
+
+.appointments-empty p {
+  margin: 0;
+  color: #85857b;
+  font-size: 14px;
+}
+
+@media (max-width: 700px) {
+  .admin-appointments-page {
+    padding: 25px 15px 45px;
+  }
+
+  .appointments-header {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .appointment-form-section,
+  .appointments-list-section {
+    padding: 22px 17px;
+  }
+
+  .appointment-form {
+    grid-template-columns: 1fr;
+  }
+
+  .appointment-card {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .appointment-card-actions {
+    width: 100%;
+  }
+}
