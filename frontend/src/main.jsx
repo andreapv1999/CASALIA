@@ -1,7 +1,7 @@
 
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Root from "./root";
+import Root from "./root.jsx";
 import { AuthProvider } from "./context/AuthContext";
 import "./styles/global.css";
 
