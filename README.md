@@ -2,6 +2,11 @@
 
 Aplicación web Full Stack para la gestión y consulta de propiedades inmobiliarias. CASALIA permite visualizar viviendas, gestionar clientes y administrar propiedades y citas desde un panel de administración.
 
+## 🌐 Aplicación desplegada
+
+- **Frontend (aplicación web):** https://casalia.onrender.com
+- **Backend (API):** https://casalia-backend.onrender.com
+
 ## 📌 Descripción del proyecto
 
 CASALIA es una plataforma inmobiliaria desarrollada como proyecto Full Stack. Su objetivo es facilitar la gestión de una inmobiliaria mediante una aplicación web intuitiva, moderna y organizada.
@@ -67,6 +72,7 @@ El proyecto integra un frontend desarrollado con React y Vite, un backend con No
 - Visual Studio Code
 - Git y GitHub
 - MongoDB Atlas
+- Render
 
 ## 📁 Estructura del proyecto
 
@@ -167,4 +173,4 @@ Repositorio: https://github.com/andreapv1999/CASALIA
 
 ---
 
-**CASALIA – Gestión inmobiliaria en un solo lugar.** 🏡
+**CASALIA – Encuentra el lugar donde perteneces.** 🏡
